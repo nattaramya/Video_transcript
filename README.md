@@ -31,3 +31,6 @@ highlighted in the summary, the summaries can be downloaded,
 summary's polarity is given by the system, text-to-speech
 feature so that summaries can be read aloud and the audio files
 can be downloaded to access them offline
+
+User Interface
+![alt text](<Screenshot 2025-03-08 142107.png>)
